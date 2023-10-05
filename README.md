@@ -2,6 +2,7 @@
 - TODO->ライセンス設定
 
 JavaとかJSとかはコピペしかしたことないしCは勉強中、HTMLやCSSはできるけどただのマークアップ言語
+  
 クソ雑魚です
 <!---
 chainsawsteel1/chainsawsteel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
